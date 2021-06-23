@@ -1152,6 +1152,7 @@
       "ware",
       "aspect",
       "program",
+      "skill",
       "specialSkill",
       "knowSkill",
       "vehicle"
@@ -1254,6 +1255,15 @@
       "quantity": 1,
       "programLevel": ""
     },
+    "skill": {
+      "name": "",
+      "description": "",
+      "type": [],
+      "specializations": [],
+      "specname": "",
+      "value": null,
+      "aptitude": null,
+    }
     "specialSkill": {
       "name": "",
       "specname" : "",
